@@ -1,0 +1,5 @@
+SELECT Miasto.nazwa, Ulica.nazwa, Ulica.numer
+FROM Miasto,Ulica,Miasto_Ulica
+WHERE
+Miasto.ID_MIASTO=Miasto_Ulica.ID_MIASTO AND Ulica.ID_ULICA=Miasto_Ulica.ID_ULICA;
+
