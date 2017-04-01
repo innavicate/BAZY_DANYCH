@@ -16,6 +16,19 @@ nazwisko VARCHAR(45) NOT NULL,
 wlasciciel_telefon VARCHAR(12)
 );
 
+CREATE TABLE Kategoria_Uslugi
+(
+id_kat_uslugi NUMBER CONSTRAINT kategoria_uslugi_pk PRIMARY KEY,
+opis VARCHAR(200)
+);
+
+CREATE TABLE Usluga(
+id_uslugi NUMBER CONSTRAINT usluga_pk PRIMARY KEY,
+id_kat_uslugi NUMBER CONSTRAINT usluga_kat_uslugi_fk REFERENCES Kategoria_Uslugi(id_kat_uslugi),
+opis VARCHAR(200) NOT NULL,
+cena NUMBER NOT NULL
+)
+
 CREATE TABLE PUNKT_USLUGI(
 id_punkt_uslugi NUMBER CONSTRAINT punkt_uslugi_pk PRIMARY KEY,
 id_miasto NUMBER CONSTRAINT punkt_uslugi_miasto_fk REFERENCES Miasto(id_miasto),
