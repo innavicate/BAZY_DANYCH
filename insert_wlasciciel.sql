@@ -2,7 +2,7 @@ INSERT INTO Wlasciciel VALUES(1,'Adam','Roztoka','501358358');
 INSERT INTO Wlasciciel VALUES(2,'Adam','Komarnicki','337234875');
 INSERT INTO Wlasciciel VALUES(3,'Adam','Bahdaj','985620083');
 INSERT INTO Wlasciciel VALUES(4,'Adela','Warszawska','240696186');
-INSERT INTO Wlasciciel VALUES(5,'Adelajda','Ustka','878855729'):
+INSERT INTO Wlasciciel VALUES(5,'Adelajda','Ustka','878855729');
 INSERT INTO Wlasciciel VALUES(6,'Adrianna','Augystynowska','212588550');
 INSERT INTO Wlasciciel VALUES(7,'Agata','Skoniecka','846223920');
 INSERT INTO Wlasciciel VALUES(8,'Agata','Kowal','241625261');

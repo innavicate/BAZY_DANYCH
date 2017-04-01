@@ -1,0 +1,118 @@
+INSERT INTO Usluga VALUES (1 ,1,'Alfa Romeo',50 );
+INSERT INTO Usluga VALUES (2,1,'Aston Martin',60 );
+INSERT INTO Usluga VALUES (3 ,1,'Audi',70 );
+INSERT INTO Usluga VALUES (4 ,1,'Bentley',100 );
+INSERT INTO Usluga VALUES (5 ,1,'Benz',40 );
+INSERT INTO Usluga VALUES (6 ,1,'BMW',35 );
+INSERT INTO Usluga VALUES (7 ,1,'Bugatti',110 );
+INSERT INTO Usluga VALUES (8 ,1,'Cadillac',100 );
+INSERT INTO Usluga VALUES (9 ,1,'Chevrolet',65 );
+INSERT INTO Usluga VALUES (10 ,1,'Chrysler',67 );
+INSERT INTO Usluga VALUES (11 ,1,'Citroen',42 );
+INSERT INTO Usluga VALUES (12 ,1,'Corvette', );
+INSERT INTO Usluga VALUES (13 ,1,'DAF',60 );
+INSERT INTO Usluga VALUES (14 ,1,'Dacia',75 );
+INSERT INTO Usluga VALUES (15 ,1,'Daewoo',49 );
+INSERT INTO Usluga VALUES (16,1,'Daihatsu',39 );
+INSERT INTO Usluga VALUES (17 ,1,'Datsun',30 );
+INSERT INTO Usluga VALUES (18 ,1,'De Lorean',77 );
+INSERT INTO Usluga VALUES (19 ,1,'Dino',50 );
+INSERT INTO Usluga VALUES (20 ,1,'Dodge',55 );
+INSERT INTO Usluga VALUES (21,1,'Farboud',54 );
+INSERT INTO Usluga VALUES (22 ,1,'Ferrari',66 );
+INSERT INTO Usluga VALUES (23 ,1,'Fiat',39 );
+INSERT INTO Usluga VALUES (24 ,1,'Ford', 45);
+INSERT INTO Usluga VALUES (25 ,1,'Honda', 59);
+INSERT INTO Usluga VALUES (26 ,1,'Hummer', 67);
+INSERT INTO Usluga VALUES (27 ,1,'Hyundai',45 );
+INSERT INTO Usluga VALUES (28 ,1,'Jaguar', 80);
+INSERT INTO Usluga VALUES (29 ,1,'Jeep', 70);
+INSERT INTO Usluga VALUES (30 ,1,'KIA', 35);
+INSERT INTO Usluga VALUES (31 ,1,'Koenigsegg', 77);
+INSERT INTO Usluga VALUES (32 ,1,'Lada', 40);
+INSERT INTO Usluga VALUES (33 ,1,'Lamborghini',100 );
+INSERT INTO Usluga VALUES (34 ,1,'Lancia', 50);
+INSERT INTO Usluga VALUES (35 ,1,'Land Rover',55 );
+INSERT INTO Usluga VALUES (36 ,1,'Lexus', 43);
+INSERT INTO Usluga VALUES (37 ,1,'Ligier', 30);
+INSERT INTO Usluga VALUES (38 ,1,'Lincoln', 60);
+INSERT INTO Usluga VALUES (39 ,1,'Lotus', 60);
+INSERT INTO Usluga VALUES (40 ,1,'Martini', 70);
+INSERT INTO Usluga VALUES (41 ,1,'Maserati', 80);
+INSERT INTO Usluga VALUES (42 ,1,'Maybach', 100);
+INSERT INTO Usluga VALUES (43 ,1,'Mazda', 50);
+INSERT INTO Usluga VALUES (44 ,1,'McLaren', 70);
+INSERT INTO Usluga VALUES (45 ,1,'Mercedes', 40);
+INSERT INTO Usluga VALUES (46 ,1,'Mercedes-Benz', 35);
+INSERT INTO Usluga VALUES (47 ,1,'Mini', 50);
+INSERT INTO Usluga VALUES (48 ,1,'Mitsubishi', 50);
+INSERT INTO Usluga VALUES (49 ,1,'Nissan', 40);
+INSERT INTO Usluga VALUES (50 ,1,'Noble', 55);
+INSERT INTO Usluga VALUES (51 ,1,'Opel', 35);
+INSERT INTO Usluga VALUES (52 ,1,'Peugeot', 35);
+INSERT INTO Usluga VALUES (52 ,1,'Pontiac', 40);
+INSERT INTO Usluga VALUES (54 ,1,'Porsche', 50);
+INSERT INTO Usluga VALUES (55 ,1,'Renault', 35);
+INSERT INTO Usluga VALUES (56 ,1,'Rolls-Royce', );
+INSERT INTO Usluga VALUES (57 ,1,'Rover', 65);
+INSERT INTO Usluga VALUES (58 ,1,'Saab', 50);
+INSERT INTO Usluga VALUES (59 ,1,'Seat', 35);
+INSERT INTO Usluga VALUES (60 ,1,'Skoda', 35);
+INSERT INTO Usluga VALUES (61 ,1,'Smart', 35);
+INSERT INTO Usluga VALUES (62 ,1,'Spyker', 40);
+INSERT INTO Usluga VALUES (63 ,1,'Subaru', 55);
+INSERT INTO Usluga VALUES (64 ,1,'Suzuki', 50);
+INSERT INTO Usluga VALUES (65 ,1,'Toyota', 35);
+INSERT INTO Usluga VALUES (66 ,1,'Vauxhall', 60);
+INSERT INTO Usluga VALUES (67 ,1,'Volkswagen', 40);
+INSERT INTO Usluga VALUES (68 ,1,'Volvo', 40);
+
+INSERT INTO Usluga VALUES (69,2,'GERDA',25);
+INSERT INTO Usluga VALUES (70,2,'WILKA',26);
+INSERT INTO Usluga VALUES (71,2,'WINKHAUS',30);
+INSERT INTO Usluga VALUES (72,2,'YETI,',22);
+INSERT INTO Usluga VALUES (73,2,'LOB',25);
+INSERT INTO Usluga VALUES (74,2,'SELL-POL'30):
+INSERT INTO Usluga VALUES (75,2,'DIERRE'50);
+INSERT INTO Usluga VALUES (76,2,'MERCOR',29);
+INSERT INTO Usluga VALUES (77,2,'SECUREMME',50);
+INSERT INTO Usluga VALUES (78,2,'POL-SKONE',45);
+INSERT INTO Usluga VALUES (79,2,'JUTA',35);
+
+INSERT INTO Usluga VALUES (80,3,'AR 03',5);
+INSERT INTO Usluga VALUES (81,3,'AR 05',6);
+INSERT INTO Usluga VALUES (82,3,'JANIA',10);
+INSERT INTO Usluga VALUES (83,3,'YALE',7);
+INSERT INTO Usluga VALUES (84,3,'WOLOMIN',10);
+
+INSERT INTO Usluga VALUES (85,4,'ZG 02',10);
+INSERT INTO Usluga VALUES (86,4,'ZG 03',11);
+INSERT INTO Usluga VALUES (87,4,'ZKT3',8);
+INSERT INTO Usluga VALUES (88,4,'ZKT11',9);
+INSERT INTO Usluga VALUES (89,4,'ZKT5',8);
+
+INSERT INTO Usluga VALUES (90,5,'WCC KR1',7);
+INSERT INTO Usluga VALUES (91,5,'WCC KR2',8);
+INSERT INTO Usluga VALUES (92,5,'DMR 6-1',9);
+INSERT INTO Usluga VALUES (93,5,'DMR 6-2',10);
+INSERT INTO Usluga VALUES (94,5,'DMR 6-3',11);
+
+INSERT INTO Usluga VALUES (95,6,'GERDA',12);
+INSERT INTO Usluga VALUES (96,6,'YALE',13);
+INSERT INTO Usluga VALUES (97,6,'JMA',10);
+INSERT INTO Usluga VALUES (98,6,'LOB',11);
+INSERT INTO Usluga VALUES (99,6,'M&D',11);
+
+INSERT INTO Usluga VALUES (100,7,'MILLE',6);
+INSERT INTO Usluga VALUES (101,7,'LIDER',8);
+INSERT INTO Usluga VALUES (102,7,'OMEGA',7);
+
+INSERT INTO Usluga VALUES (103,8,'Brelok AGATA',6);
+INSERT INTO Usluga VALUES (104,8,'Nasadka uniwersalna',3);
+INSERT INTO Usluga VALUES (105,8,'Karabinek maly',10);
+INSERT INTO Usluga VALUES (106,8,'Identyfikator jednostronny',2);
+INSERT INTO Usluga VALUES (107,8,'Identyfikator dwustronny',4):
+INSERT INTO Usluga VALUES (108,8,'Lancuszek krtoki TYP A',6);
+INSERT INTO Usluga VALUES (109,8,'Lancuszek krtoki TYP B',7);
+INSERT INTO Usluga VALUES (110,8,'Lancuszek krtoki TYP C',7);
+
